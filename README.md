@@ -13,8 +13,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate web developer with one year of experience crafting responsive, user-centric websites and applications. Proficient in HTML, CSS, and JavaScript, with a growing interest in React and full-stack development. Successfully built projects, leveraging my strong problem-solving skills and meticulous coding practices. My passion for clean code and collaborative spirit, coupled with a hunger for continuous learning, make me a fast-growing asset to any team and contribute, I'm seeking opportunities to collaborate with innovative teams and build impactful web experiences.<br><p><img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="gif" width ="300" height = "300" /></p>
 <br>
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My Portfolio](http://myporfolio)
-* ✉️  You can contact me at [arghodev@gmail.com](mailto:arghodev@gmail.com ) 
 * 🚀  I'm currently working on [Web Application](http://web.applications )
 * 🧠  I'm learning Mobile App Development
 * ⚡  I have also knowledge about "Graphic Designing and Digital Marketing" <br>
